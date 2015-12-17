@@ -1,0 +1,1 @@
+Ruby-SAT is a solver for the NP-Complete Satisfiability problem, written in Ruby
